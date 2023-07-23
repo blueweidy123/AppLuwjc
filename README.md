@@ -5,7 +5,7 @@ AppLuwjc is a custom Chrome-based browser tailored for novel readers, designed t
 
 # Key Features
 Simplified Interface: AppLuwjc offers an uncluttered and straightforward interface, focusing on your reading content without distractions.
-<img src="[https://example.com/image.jpg](https://raw.githubusercontent.com/blueweidy123/AppLuwjc/master/DemoImage/Screenshot_20230723-130405609.jpg)" alt="AL-UI" width="50%">
+<img src="https://raw.githubusercontent.com/blueweidy123/AppLuwjc/master/DemoImage/Screenshot_20230723-130405609.jpg" alt="AL-UI" width="50%">
 
 ![AL-UI](https://raw.githubusercontent.com/blueweidy123/AppLuwjc/master/DemoImage/Screenshot_20230723-130405609.jpg)
 
