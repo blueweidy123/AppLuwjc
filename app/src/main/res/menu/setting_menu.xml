@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/reading_Mode"
+        android:icon="@drawable/ic_baseline_menu_book_24"
+        android:title="     Reading mode"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/fullScreen"
+        android:icon="@drawable/ic_baseline_fullscreen_24"
+        android:title="     Full Screen"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/exitFullScreen"
+        android:icon="@drawable/ic_baseline_fullscreen_exit_24"
+        android:title="     Exit Full Screen"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/history"
+        android:icon="@drawable/ic_baseline_history_24"
+        android:title="     History"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/setting_App"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="     Setting"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/test_in4"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="     testDetails"
+        app:showAsAction="never"
+        />
+
+
+</menu>
