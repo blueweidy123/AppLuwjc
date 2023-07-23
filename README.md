@@ -13,7 +13,7 @@ Novel Reading Mode: The browser comes with a dedicated novel reading mode, optim
 Auto Scroll for Lazy Readers: For those who prefer a hands-free experience, AppLuwjc features an auto-scroll option, allowing you to sit back and let the browser scroll through the novel's pages at your preferred speed.
 Adjustable Reading Speed: Customize the auto-scroll speed to match your reading pace, ensuring a comfortable and immersive reading experience.
 
-![ReadingMode](https://raw.githubusercontent.com/blueweidy123/AppLuwjc/master/DemoImage/Screenshot_20230723-130415527.jpg)
+<img src="https://raw.githubusercontent.com/blueweidy123/AppLuwjc/master/DemoImage/Screenshot_20230723-130415527.jpg" alt="Reading-mode" width="50%">
 
 Features: 
   -Full screen
